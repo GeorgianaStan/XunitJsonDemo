@@ -1,0 +1,8 @@
+{
+    "optionArguments": [
+        "--lang=en",
+        "--window-size=1920,1080"
+    ],
+    "name": "chrome",
+    "url": "https://www.wordpress.com"
+}

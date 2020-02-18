@@ -1,0 +1,14 @@
+{
+    "browsersDetails": [
+        {
+            "browser": "chrome",
+            "language": "en",
+            "url": "https://wordpress.com/"
+        },
+        {
+            "browser": "chrome",
+            "language": "es",
+            "url": "https://wordpress.com/"
+        }
+    ]
+}
